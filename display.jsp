@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Display Page</title>
+<title>Devops Project</title>
 </head>
 <body>
 <h2>Welcome to my Devops final project site</h2>
